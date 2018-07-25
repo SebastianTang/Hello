@@ -1,0 +1,15 @@
+/.settings
+*/target/*
+/target/*
+*/.settings/*
+*.project
+*.classpath
+*.launch
+*.class
+*/bin/*
+.idea
+*/*.launch
+/.metadata/
+/.tgitconfig
+/target/
+*.iml
